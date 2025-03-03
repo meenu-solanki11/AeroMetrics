@@ -47,7 +47,7 @@ To view and interact with the report, you will need:
 
 1. Download the repository or clone it using:
    ```sh
-   git clone [https://github.com/your-repository-link.git](https://github.com/meenu-solanki11/AeroMetrics)
+https://github.com/meenu-solanki11/AeroMetrics
    ```
 2. Open the **US 2023 flight delay.pbix** file in Power BI Desktop.
 3. Explore the dashboards and insights.
