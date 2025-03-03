@@ -7,9 +7,8 @@ This repository contains a Power BI report analyzing flight delays in the United
 ## File Structure
 
 - **US 2023 flight delay.pbix** - Power BI report containing visualizations and insights.
-- **Images/** - Contains supporting images related to the analysis.
 - **README.md** - This file, providing an overview of the project.
-- **Screenshots/** - Folder to store screenshots of the project dashboard and reports.
+- **Aviation_Delays_Report/** - pdf to store screenshots of the project dashboard and reports.
 
 ## Power BI Dashboard Screenshots
 
@@ -52,7 +51,7 @@ To view and interact with the report, you will need:
    ```
 2. Open the **US 2023 flight delay.pbix** file in Power BI Desktop.
 3. Explore the dashboards and insights.
-4. Add screenshots of the dashboard and reports to the **Screenshots/** folder.
+4. Add screenshots of the dashboard and reports to the **Aviation_Delays_Report/** pdf.
 
 ## License
 
